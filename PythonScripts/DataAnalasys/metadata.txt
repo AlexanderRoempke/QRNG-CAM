@@ -1,0 +1,3 @@
+Total Bits: 5038848
+Total 1s: 2461916
+Total 0s: 2576932
